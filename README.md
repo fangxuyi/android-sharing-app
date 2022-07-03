@@ -1,1 +1,1 @@
-# mini-sharing-app
+# android-sharing-app
